@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoLigarBancodeDados", "AprendendoLigarBancodeDados\AprendendoLigarBancodeDados.csproj", "{97D916FF-D77B-46AD-A4CB-AB1783DE1006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D916FF-D77B-46AD-A4CB-AB1783DE1006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D916FF-D77B-46AD-A4CB-AB1783DE1006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D916FF-D77B-46AD-A4CB-AB1783DE1006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D916FF-D77B-46AD-A4CB-AB1783DE1006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCBC52E8-8E77-44A6-A3A4-C66780BD8BE8}
+	EndGlobalSection
+EndGlobal
